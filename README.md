@@ -12,7 +12,7 @@
 
 Once this is done, it is necessary to fill the POSTS table, to fill the factory will be used to create the records.
 
--   php artisan db: seed
+-   php artisan db:seed
 
 -   php artisan serves
 
