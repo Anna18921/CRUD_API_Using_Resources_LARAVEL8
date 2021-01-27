@@ -2,7 +2,7 @@
 
 ## how to test?
 
--   git clone repository
+-   git clone https://github.com/Anna18921/CRUD_API_Using_Resources_LARAVEL8.git
 
 -   php artisan key: generate
 
